@@ -6,6 +6,4 @@ This edit was done in Remote repository
 
 HAHAHAHAH I AM IN BRANCH A.....
 
-------
-BRANCH B IS OFFENSIVE
-
+Ofense taken by Branch A in consideration with Branch B
