@@ -6,6 +6,4 @@ This edit was done in Remote repository
 
 HAHAHAHAH I AM IN BRANCH A.....
 
-
---- 
-Ofense taken by Branch A
+Ofense taken by Branch A in consideration with Branch B
